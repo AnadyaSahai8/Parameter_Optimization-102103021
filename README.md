@@ -75,7 +75,7 @@ plt.show()
 ## Result Graph
 ![Result_Graph](final_graph.png)
 
-Name: Aryan Kalia
-Roll No: 102103073
-Batch: CO3
+Name: Anadya Sahai
+Roll No: 102103021
+Batch: CO1
 
